@@ -1,4 +1,4 @@
-# Instalar Kubernetes (K8S-Minikube) con Docker versión 18.
+# Instalar Kubernetes (K8S-Minikube) con Docker versión 19.
 
 Este GitHub describe la Shell que esta desarrolla para la instalación de Minikube(K8S) con Docker v.19 Localmente.
 
