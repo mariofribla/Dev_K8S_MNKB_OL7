@@ -6,14 +6,6 @@ Este GitHub describe la Shell que esta desarrolla para la instalación de Miniku
 * Oracle Linux Server release 7.8 o superior
 * Docker versión 19.* 
 
-## Ejemplos:
-En el directorio YML, encontraras los siguientes ejemplos:
-* Ejemplo 1: Creación de un Pod por línea de comando.
-* Ejemplo 2: Un Pod con dos contenedores Nginx.
-* Ejemplo 3: Aplicando Replicación de Pod’s.
-* Ejemplo 4: Aplicando un Deployment en un ClusteIP.
-* Ejemplo 5: Aplicando Deployment en un App Web. (backend)
-
 ## DESCRIPCIÓN SHELL
 
 El objetivo es describir las acciones que realiza para la instalación de Minikube en Oracle Linux Server release 7.8 o superior.
