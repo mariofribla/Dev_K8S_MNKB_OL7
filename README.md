@@ -1,6 +1,6 @@
 # Instalar Kubernetes (K8S-Minikube) con Docker versión 18.
 
-Este GitHub describe la Shell que esta desarrolla para la instalación de Minikube(K8S) con Docker v.18 Localmente.
+Este GitHub describe la Shell que esta desarrolla para la instalación de Minikube(K8S) con Docker v.19 Localmente.
 
 ## Pre-Requisitos
 * Oracle Linux Server release 7.8 o superior
@@ -12,7 +12,7 @@ El objetivo es describir las acciones que realiza para la instalación de Miniku
 
 ### Actualizar el  Sistema
 ```sh
-$ sudo yum -u update
+$ sudo yum -y update
 ```
 ### Validación para Soporte Virtual
 ```sh
